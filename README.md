@@ -1,13 +1,14 @@
 ## Hey 👋, I'm Ahmed  
   
 
-<img src="https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" align="left" height="350" width="600" />  
-  
+<img src="https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" align="left" height="450" width="1000" />  
+  <div align="center">  -  </div>  
 
 <div align="center">
 <a href="https://github.com/https://github.com/omda07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-emad-380378121/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -17,8 +18,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 
 
@@ -35,11 +34,6 @@
 - 📜Checkout my [Resume](https://drive.google.com/file/d/1nqZP9sQ7liGp_C86CfQ9gD7ihpfvAc5t/view?usp=sharing)  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -66,15 +60,15 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omda07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=omda07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omda07&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omda07&hide_border=true&layout=compact" align="left" style="width: 30%" />
+
+
 
 <br/>  
 
@@ -88,7 +82,5 @@
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
